@@ -1,0 +1,2 @@
+# net-safe
+wifi net
